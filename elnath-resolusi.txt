@@ -3,4 +3,4 @@ RESOLUSI SAYA
 - saya harus bisa membuat sistem registrasi dan login dengan php dan mysql
 - saya harus bisa mengupload website buatan saya dari localhost ke domain
 - saya harus tau cara programming yang benar
-- saya harus mendapatkan  partner untuk belajar
+
